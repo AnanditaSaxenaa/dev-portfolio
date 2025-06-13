@@ -51,50 +51,7 @@
     --sidebar-ring: 220 70% 38%; /* Adjusted Royal Blue for focus rings */
   }
 
-  .dark {
-    --background: 220 40% 5%; /* Very Dark (almost black with blue hint) */
-    --foreground: 0 0% 98%; /* White */
-
-    --card: 220 40% 10%;
-    --card-foreground: 0 0% 95%;
-
-    --popover: 220 40% 10%;
-    --popover-foreground: 0 0% 95%;
-
-    --primary: 220 75% 55%; /* Darkest Royal Blue (adjusted for dark bg) */
-    --primary-foreground: 0 0% 98%;
-
-    --secondary: 220 20% 15%;
-    --secondary-foreground: 0 0% 90%;
-
-    --muted: 220 15% 25%;
-    --muted-foreground: 220 10% 65%;
-
-    --accent: 0 65% 55%; /* Crimson Red (adjusted for dark bg) */
-    --accent-foreground: 0 0% 98%;
-
-    --destructive: 0 65% 55%;
-    --destructive-foreground: 0 0% 98%;
-
-    --border: 220 20% 20%;
-    --input: 220 20% 25%;
-    --ring: 220 75% 65%; /* Brighter Royal Blue for focus rings on dark */
-
-    --chart-1: 220 75% 60%;
-    --chart-2: 0 65% 60%;
-    --chart-3: 220 65% 70%;
-    --chart-4: 0 55% 70%;
-    --chart-5: 220 55% 80%;
-
-    --sidebar-background: 220 40% 7%;
-    --sidebar-foreground: 0 0% 98%;
-    --sidebar-primary: 220 75% 55%;
-    --sidebar-primary-foreground: 0 0% 98%;
-    --sidebar-accent: 0 65% 55%;
-    --sidebar-accent-foreground: 0 0% 98%;
-    --sidebar-border: 220 20% 20%;
-    --sidebar-ring: 220 75% 65%;
-  }
+  /* Dark theme styles removed */
 }
 
 @layer base {
@@ -105,3 +62,4 @@
     @apply bg-background text-foreground;
   }
 }
+
