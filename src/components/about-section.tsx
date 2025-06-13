@@ -18,7 +18,7 @@ export default function AboutSection() {
           <div className="relative group">
             <div className="absolute -inset-0.5 bg-gradient-to-r from-primary via-accent to-primary rounded-full blur-md opacity-50 group-hover:opacity-75 transition duration-1000 group-hover:duration-200 animate-tilt"></div>
             <Image
-              src="/images/profilepicture.jpeg"
+              src="/images/WhatsApp Image 2025-06-13 at 14.45.58 (1).jpeg"
               alt="Profile Picture"
               width={350}
               height={350}
