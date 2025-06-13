@@ -38,9 +38,14 @@ export default function AboutSection() {
           <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
             <Button variant="outline" size="lg" asChild className="font-body text-base w-full sm:w-auto">
               {/* Replace with actual resume link */}
-              <Link href="https://drive.google.com/file/d/12xHkIPMkq1pv3Qv6LqGmCs7nELW3h-Aw/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+              <Link
+                href="https://drive.google.com/uc?export=download&id=1uJk8DCZyaHSXxm8l3u5VhkklbobCLw7o"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Download CV <DownloadCloud className="ml-2 h-5 w-5" />
               </Link>
+
             </Button>
           </div>
         </div>
