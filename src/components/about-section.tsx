@@ -37,9 +37,8 @@ export default function AboutSection() {
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
             <Button variant="outline" size="lg" asChild className="font-body text-base w-full sm:w-auto">
-              {/* Replace with actual resume link */}
               <Link
-                href="https://drive.google.com/uc?export=download&id=1uJk8DCZyaHSXxm8l3u5VhkklbobCLw7o"
+                href="https://drive.google.com/uc?export=download&id=10n2-v0MvM0xsWFG8d4IwU7EovZnvnLmL"
                 target="_blank"
                 rel="noopener noreferrer"
               >
