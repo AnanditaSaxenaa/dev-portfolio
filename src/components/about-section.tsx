@@ -30,10 +30,9 @@ export default function AboutSection() {
         </div>
         <div className="lg:w-3/5 text-center lg:text-left">
           <p className="text-base md:text-lg text-foreground font-body mb-6 leading-relaxed">
-          I’m a final-year Computer Science student specializing in Artificial Intelligence, with a strong interest in building modern, user-focused websites and applications. I'm currently deepening my skills in React-based frontend development, exploring backend technologies through hands-on projects, and diving into the fascinating world of Generative AI. At the same time, I'm sharpening my coding and problem-solving abilities.
-          </p>
+          I’m a final-year Computer Science (AI) student and software developer with a strong focus on building scalable backend systems and impactful applications. My work primarily revolves around Java, Spring Boot, and modern data systems, while I also leverage React to create clean, user-friendly interfaces when needed. I enjoy solving complex problems, whether it’s optimizing recommendation systems or building full-stack AI-powered projects.
           <p className="text-base md:text-lg text-foreground font-body mb-6 leading-relaxed">
-          Beyond tech, I’m genuinely passionate about electric vehicles and sustainable innovation, and I look forward to exploring where these interests intersect in the future.
+          Lately, I’ve been diving deeper into system design, backend performance, and real-world applications of Generative AI. Alongside tech, I have a growing curiosity for exploring countries—their geography, history, and cultures—which helps me think more broadly and creatively. I’m also passionate about electric vehicles and sustainable innovation, and I’m excited about opportunities where technology can drive meaningful change in these areas.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
             <Button variant="outline" size="lg" asChild className="font-body text-base w-full sm:w-auto">
